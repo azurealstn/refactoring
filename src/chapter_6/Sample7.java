@@ -1,4 +1,4 @@
-package chapter_2;
+package chapter_6;
 
 public class Sample7 {
     public int discount(int inputVal, int quantity, int yearToDate) {

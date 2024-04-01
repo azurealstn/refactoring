@@ -1,4 +1,4 @@
-package chapter_2;
+package chapter_6;
 
 public class Sample6 {
     double height = 3.5;
